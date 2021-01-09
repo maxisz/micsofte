@@ -1,1 +1,1 @@
-# micsofte
+# micsoft
